@@ -5,8 +5,8 @@ Hypothesis : Understanding the factors that influence the monthly premium for ca
 Team Members: Jinseo, Rachel, Devi , Dhruv and Ardeshir.
 
 Data Aquisition:
-Kaggle.com (Auto_Insurance.csv)
-Crash viewer : https://crashviewer.nhtsa.dot.gov/
+1) Kaggle.com (Auto_Insurance.csv)
+2) Crash viewer : https://crashviewer.nhtsa.dot.gov/
 
 Data Cleaning: 
 1) Reduced dataframe to include relevant columns required for analysis.
@@ -20,10 +20,9 @@ Challenges:
 Findings: Despite the challenges we persisted with no bias towards our conclusions and were able to make important findings that were impacting car insurances rates. 
 
 Code: 
-
-Python 3.12
-Editors: Jupyter notebook and Visual Studio Code.
-Packages: Pandas, Matplotlib, Scipy and Numpy
+1) Python 3.12
+2) Editors: Jupyter notebook and Visual Studio Code.
+3) Packages: Pandas, Matplotlib, Scipy and Numpy
 
 Analysis: 
 1) We used Pandas to clean the data and to create dataframes needed to go ahead with our analysis.

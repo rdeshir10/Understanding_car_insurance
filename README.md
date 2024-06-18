@@ -8,6 +8,11 @@ Data Aquisition:
 1) Kaggle.com (Auto_Insurance.csv)
 2) Crash viewer : https://crashviewer.nhtsa.dot.gov/
 
+Navigation : 
+1) Main code is in car_insurance.ipynb
+2) Output folder contains PNG files of all analysis plots.
+3) Resources folder contains CSV file used for analysis. 
+
 Data Cleaning: 
 1) Reduced dataframe to include relevant columns required for analysis.
 2) Filtered Dataset to remove all rows which had a income of 0.

@@ -1,8 +1,10 @@
 # project_1_car_insurance
 
-**Hypothesis** : Understanding the factors that influence the monthly premium for car insurance. 
+**Hypothesis** : 
+Understanding the factors that influence the monthly premium for car insurance. 
 
-**Team Members**: Jinseo, Rachel, Devi , Dhruv and Ardeshir.
+**Team Members**: 
+Jinseo, Rachel, Devi , Dhruv and Ardeshir.
 
 **Code**: 
 1) Python 3.12

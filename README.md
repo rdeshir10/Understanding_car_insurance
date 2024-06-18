@@ -20,10 +20,15 @@ Challenges:
 Findings: Despite the challenges we persisted with no bias towards our conclusions and were able to make important findings that were impacting car insurances rates. 
 
 Code: 
-Python 
+
+Python 3.12
+Editors: Jupyter notebook and Visual Studio Code.
 Packages: Pandas, Matplotlib, Scipy and Numpy
 
 Analysis: 
 1) We used Pandas to clean the data and to create dataframes needed to go ahead with our analysis.
 2) We used Matplotlib, Pandas and Scipy to plot our findings and make comparisons to understand which elements impact monthly car insurance premiums the most.
 3) We used linear regression to determine where there was enough in the data to use for a predictive model with some more insight and advanced techniques.
+4) Based on the findings from our analysis we were able to provide some context as to how car insurance rates are set which could help a prospective customer understand how the rates are determined and make an informed decision accordingly.
+5) One of the drawbacks that we experienced in our analysis is that our data was not covering all of the elements required to be more precise and thorough with our findings. But it was a valuable experience as we will be better equiped in the future when understanding the data we are to work with.
+6) We also assume that insurance companies do not publish datasets on how the rates are determined in detail as that may be considered confidential information by most of them. We have tried our best to understand this with what we retrieved. 

@@ -17,6 +17,7 @@ Data Cleaning:
 1) Reduced dataframe to include relevant columns required for analysis.
 2) Filtered Dataset to remove all rows which had a income of 0.
 3) Deleted the first row as it had only numbers and the information was not pertaining to insurance.
+4) Retreived crash information for the 5 states that we have analysed and merged it into one dataframe. 
 
 Challenges: 
 1) One of the main challenges we faced was getting a dataset that was including all the determininants that make the monthly cost. We were able to find multiple datasets but would not have been able to merge them as they had no common keys. 
